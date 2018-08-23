@@ -25,7 +25,12 @@
 ### chapter02.t02:java自带的观察者
 ### chapter03:装饰者模式
 ### chapter04.t01:简单的工厂模式
-
+### ip 的获取
+### lambda 表达式
+### multithreading 多线程
+### nested 一个类实现两个拥有同一方法的接口
+### QR code 二维码的生成
+### shp 空间判断
 
 
 
